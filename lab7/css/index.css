@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: #97d8de;
+    margin:25px;
+    border:solid 5px;
+    font-size:120%;
+    border-color: #83c1c7;
+    border-radius: 10px;
+}
+
+div {
+margin: 25px;
+background-color: #beede8;
+border: solid 3px;
+border-radius: 10px;
+border-color: #83c1c7;
+}
+
+p {
+  margin-left: 15px;
+}
+
+h1 {
+  margin: 5px;
+}
+
+h2 {
+  margin: 5px;
+}

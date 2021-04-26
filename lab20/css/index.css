@@ -1,0 +1,18 @@
+h1 {
+  font-family: monospace;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+  margin: 30px;
+  background-color: #121111;
+}
+
+h2 {
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+}

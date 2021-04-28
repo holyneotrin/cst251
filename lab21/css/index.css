@@ -1,0 +1,23 @@
+h1 {
+  font-family: monospace;
+  background-color: #DA90CB;
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+  margin: 30px;
+  background-color: #EEC4E5;
+}
+
+h2 {
+  color: #72143C;
+}
+
+p {
+  color: #72143C;
+}
+
+img {
+  float: left;
+}
